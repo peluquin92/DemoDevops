@@ -1,0 +1,5 @@
+C:\Adrián Personal\UAM\IV Cuatrimestre\Programación III\Tareas\TAREA_I\DAL_TAREA_I\bin\Debug\DAL_TAREA_I.dll
+C:\Adrián Personal\UAM\IV Cuatrimestre\Programación III\Tareas\TAREA_I\DAL_TAREA_I\bin\Debug\DAL_TAREA_I.pdb
+C:\Adrián Personal\UAM\IV Cuatrimestre\Programación III\Tareas\TAREA_I\DAL_TAREA_I\obj\Debug\DAL_TAREA_I.csproj.CoreCompileInputs.cache
+C:\Adrián Personal\UAM\IV Cuatrimestre\Programación III\Tareas\TAREA_I\DAL_TAREA_I\obj\Debug\DAL_TAREA_I.dll
+C:\Adrián Personal\UAM\IV Cuatrimestre\Programación III\Tareas\TAREA_I\DAL_TAREA_I\obj\Debug\DAL_TAREA_I.pdb
